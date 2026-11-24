@@ -26,5 +26,12 @@ Teorik bilgiyi sahaya taşımaya odaklı; birden fazla projede **yazılım lider
 - **Akıllı IoT Sistemler ve Siber Savunma Kulübü** — Yönetim Kurulu Üyesi / Proje Ekibi Kaptanı
 - **Yapay Zeka ve Siber Güvenlik Kulübü** — Proje Komisyonu
 
+## 🔗 Profiller & İletişim
+
+| | |
+|---|---|
+| 💼 **LinkedIn** | [ramazan-giyici](https://www.linkedin.com/in/ramazan-giyici-084670333/) |
+| 💻 **GitHub** | [@Ramazan-Giyici](https://github.com/Ramazan-Giyici) |
+
 ---
 *Yabancı dil: İngilizce (orta)*
